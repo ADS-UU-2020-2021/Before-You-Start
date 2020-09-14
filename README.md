@@ -18,10 +18,8 @@ Pick whatevery you want, you have 4 courses and thus at least 2 domains
 
 
 ## Info this week
-You need to look up related info in the book yourself. He was going to look which chapters are related but he'll forget to do so if we don't remind him.  
-Edit: he forgot.  
-It is thought that one would find related info in chapter 3 to 8.  
-The book is added to the repo.  
+You need to look up related info in the book yourself. He was going to look which chapters are related but he'll forget to do so if we don't remind him. Edit: he forgot.  
+It is thought that one would find related info in chapter 3 to 8. The book is added to the repo.  
 The exam questions should, according to Hakim, all be possible if you understand, and can apply, the material from the slides.  
 
 ## Stuff to learn
@@ -35,10 +33,10 @@ The exam questions should, according to Hakim, all be possible if you understand
 ## Extra stuff
 
 ### Communication
-The Master communication is in Teams, in a team called Applied Data Science master's programme
-The Data Wrangling comms is in Teams, in INFOMDWR_2020
-The informal communication is in Whatsapp, in a group ADS
-There's also a slack which is kinda slow atm
+The Master communication is in Teams, in a team called Applied Data Science master's programme.  
+The Data Wrangling comms is in Teams, in INFOMDWR_2020.  
+The informal communication is in Whatsapp, in a group ADS.  
+There's also a slack which is kinda slow atm.  
 
 ### Calc your grade
 
@@ -54,7 +52,7 @@ return (grade_1 - 6) / 2 + 6 + 1/5 * grade_2
 ```
 
 ### Want to use SQL on the CSV files?
-Don't screw around with getting them into Postgres. Just use:
+Don't screw around with getting them into Postgres. Just use:  
 
 ```python 
 import pandas as pd
@@ -73,5 +71,5 @@ sci-hub.tw Paywall removal
 If you wanna read that book about R i would just use this link https://r4ds.had.co.nz/  
 https://course18.fast.ai/ml.html and https://mlcourse.ai/lectures are some good resources for machine learning Intro to machine learning 15 hours
 
-# Remarks
+#### Remarks
 Edited by Jelle Teijema
