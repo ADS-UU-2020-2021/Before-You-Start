@@ -56,9 +56,9 @@ pysqldf = lambda q: sqldf(q, globals()) pysqldf('SELECT * FROM bbc LIMIT 10;')
 It's still relevant!
 
 
-http://gen.lib.rus.ec/ <- illegal books
-b-ok.org <- more illegal books
-sci-hub.tw <- no paywall
-Kaggle <- practice, if you are try to a competition you'll be faced with some next level wizardry
+http://gen.lib.rus.ec/ <- illegal books. 
+b-ok.org <- more illegal books. 
+sci-hub.tw <- no paywall. 
+Kaggle <- practice, if you are try to a competition you'll be faced with some next level wizardry. 
 
 If you wanna read that book about R i would just use this link https://r4ds.had.co.nz/ https://course18.fast.ai/ml.html and https://mlcourse.ai/lectures are some good resources for machine learning Intro to machine learning 15 hours
