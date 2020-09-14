@@ -12,9 +12,17 @@
 
 
 ## Elective Courses
-You need to enroll into elective courses, the window is already open.  
+You need to enroll into elective courses, the window is already open but the courses aren't properly scheduled yet. They will be added soon.  
 These are the courses to choose from: https://www.uu.nl/masters/en/applied-data-science/courses  
-Pick whatevery you want, you have 4 courses and thus at least 2 domains  
+
+The second period of the master will see 3 courses from 3 different domains. You will have to pick 2 of those.  
+- INFOMEBD Epidemiology and big data  
+- INFOMSDASM Spatial data analysis and simulation modelling  
+- INFOMDMTIV Data mining: text, images, video  
+
+The third period has 5 courses. The course codes are currently unknown.  
+
+Enrolling will be in the OSIRIS portal as soon as the courses are added. I expect a headsup from the direction as soon as this is completed.  
 
 
 ## Info this week
