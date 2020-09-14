@@ -63,9 +63,9 @@ pysqldf = lambda q: sqldf(q, globals()) pysqldf('SELECT * FROM bbc LIMIT 10;')
 ```
 
 ### я служу советскому союзу
-gen.lib.rus.ec All books
-b-ok.org Better looking site, less kniga
-sci-hub.tw Paywall removal
+gen.lib.rus.ec All books  
+b-ok.org Better looking site, less kniga  
+sci-hub.tw Paywall removal  
 
 ### Practice
 If you wanna read that book about R i would just use this link https://r4ds.had.co.nz/  
