@@ -41,14 +41,19 @@ There's also a slack which is kinda slow atm.
 ### Calc your grade
 
 ```python
-def grading(grade_1, grade_2): if grade_1 < 5.5:
-W = max(grade_1, grade_2) if W <= 5.5:
+def grading(grade_1, grade_2): 
+    if grade_1 < 5.5:
+        W = max(grade_1, grade_2) 
+        if W <= 5.5:
             return W
         else:
-return 0.5 * (W - 6) + 6 elif grade_2 <= 5.5:
+            return 0.5 * (W - 6) + 6 
+    elif grade_2 <= 5.5:
         return (grade_1 - 6) / 2 + 6
     else:
-return (grade_1 - 6) / 2 + 6 + 1/5 * grade_2
+        return (grade_1 - 6) / 2 + 6 + 1/5 * grade_2
+
+print(grading(10,10))
 ```
 
 ### Want to use SQL on the CSV files?
@@ -59,7 +64,8 @@ import pandas as pd
 from pandasql import sqldf
 bbc = pd.read_csv('/your/path/to/the/file/bbc.csv')
 eteam = pd.read_csv('/your/path/to/the/file/eteam.csv', encoding='latin-1')
-pysqldf = lambda q: sqldf(q, globals()) pysqldf('SELECT * FROM bbc LIMIT 10;')
+pysqldf = lambda q: sqldf(q, globals())
+pysqldf('SELECT * FROM bbc LIMIT 10;')
 ```
 
 ### я служу советскому союзу
